@@ -1,4 +1,4 @@
-W# Demo Git Repository
+## Demo Git Repository
 
 This is the first file in repo.
 
