@@ -1,4 +1,4 @@
-## My first demo
+## My first git demo
 
 ## Files in the project
 
